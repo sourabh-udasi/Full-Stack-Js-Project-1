@@ -10,8 +10,6 @@
 
 ## Project 1 - HTML ![](./Images/html-5.png) and CSS ![](./Images/css-3.png)
 
----
-
 <!-- - [Live Link](https://live-proj-9.netlify.app) -->
 
 ### Skills Gained in this project

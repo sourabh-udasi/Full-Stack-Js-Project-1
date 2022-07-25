@@ -8,13 +8,17 @@
 
 ![name](https://img.shields.io/badge/Sourabh--Udasi-College--Drop--Out-lightgrey)
 
-## Project 1
+## Project 1 - HTML ![](./Images/html-5.png) and CSS ![](./Images/css-3.png)
+
+---
 
 <!-- - [Live Link](https://live-proj-9.netlify.app) -->
 
-- Skills Gained in this project
-  - Learnd to use css position [Relative & Absolute] property.
-  - This is my first assignment so Learnd alot about css-Html
+### Skills Gained in this project
+
+- I learned how to use HTML and CSS to create a beutiful website.
+- I learned about the ways of positioning elements in the HTML and CSS.
+- I learned about z indexing to stack elements on top of each other.
 
 ---
 

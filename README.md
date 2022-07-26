@@ -8,11 +8,9 @@
 
 ![name](https://img.shields.io/badge/Sourabh--Udasi-College--Drop--Out-lightgrey)
 
-##
+## project 1- [Live Link](https://live-proj-1.netlify.app/)
 
 ---
-
-<!-- - [Live Link](https://live-proj-9.netlify.app) -->
 
 ### Skills Gained in this project
 
